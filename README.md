@@ -1,2 +1,3 @@
-# fast-weather-app-l2rq
-A weather forecasting application for modern development workflows
+# Fast Weather App L2Rq
+
+A weather forecasting application for modern development workflows.
